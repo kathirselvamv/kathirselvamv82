@@ -1,1 +1,2 @@
-
+print("enter the number")
+age = int(input("enter your age")
